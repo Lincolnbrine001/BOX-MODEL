@@ -1,0 +1,32 @@
+.div3{
+    background-color: brown;
+    width: 350px;
+    height: 200px;
+    margin: auto;
+    padding: 50px;
+    border-top: 20px solid rgb(2, 2, 38);
+    color: #ffffff;
+}
+
+h1{
+    text-align: center;
+} 
+.div1{
+    background-color: brown;
+    width: 350px;
+    height: 200px;
+    margin: auto;
+    padding: 50px;
+    border-top: 20px solid rgb(2, 2, 38);
+    color: #ffffff;
+}
+
+.div2{
+    background-color: brown;
+    width: 350px;
+    height: 200px;
+    margin: auto;
+    padding: 50px;
+    border-top: 20px solid rgb(2, 2, 38);
+    color: #ffffff;
+}
